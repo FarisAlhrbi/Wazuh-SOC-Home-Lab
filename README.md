@@ -100,13 +100,13 @@ For deeper analysis, the Account Lockout Policy was temporarily disabled to obse
 
 
 <img width="2548" height="1390" alt="Screenshot 2025-10-28 195812" src="https://github.com/user-attachments/assets/9d866eab-b003-4417-8666-e5a7c615ed0e" />
-
+<img width="2550" height="1358" alt="Screenshot 2025-10-28 190848" src="https://github.com/user-attachments/assets/7c3bfd5b-19f0-4b64-9d98-ab215f4f852c" />
 
 **4. Post-Exploitation:**
 *   Using the compromised credentials, a successful RDP connection was established from the Kali machine to the victim, confirming full system access.
 
 <img width="2546" height="1386" alt="Screenshot 2025-10-28 195736" src="https://github.com/user-attachments/assets/d7697185-b127-4819-a4d8-a4ee3e84ce12" />
-<img width="2550" height="1358" alt="Screenshot 2025-10-28 190848" src="https://github.com/user-attachments/assets/7c3bfd5b-19f0-4b64-9d98-ab215f4f852c" />
+
 
 
 **Conclusion:** This scenario validates the lab's ability to provide full visibility into an attack chain, from initial attempts to successful compromise, showcasing the SIEM's critical role in threat detection.
