@@ -1,4 +1,4 @@
-<img width="2550" height="1394" alt="Screenshot 2025-10-28 191228" src="https://github.com/user-attachments/assets/fc9859c0-a265-4e24-a0ea-127217be230e" /># SOC Home Lab Project: Threat Analysis with a Wazuh SIEM
+# SOC Home Lab Project: Threat Analysis with a Wazuh SIEM
 
 ## 🚀 Introduction
 
