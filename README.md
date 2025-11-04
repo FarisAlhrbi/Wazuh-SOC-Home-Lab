@@ -2,7 +2,7 @@
 
 ## 🚀 Introduction
 
-This project documents the end-to-end creation of a fully functional Security Operations Center (SOC) home lab. Built from the ground up, this lab serves as a practical environment to simulate, detect, and analyze common cyber threats. The primary goal was to bridge the gap between theoretical knowledge (from certifications like CompTIA Security+ and Cisco CCNA) and the hands-on, practical skills required for a SOC Analyst (Tier 1) role.
+This project documents the end-to-end creation of a fully functional Security Operations Center (SOC) home lab. Built from the ground up, this lab serves as a practical environment to simulate, detect, and analyze common cyber threats. The primary goal was to bridge the gap between theoretical knowledge (from certifications like CompTIA Security+) and the hands-on, practical skills required for a SOC Analyst (Tier 1) role.
 
 The project covers the complete threat lifecycle: from infrastructure architecture and network engineering to executing a controlled attack, detecting it with a SIEM, and analyzing the results.
 
